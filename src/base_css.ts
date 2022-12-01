@@ -1,8 +1,4 @@
-export interface BaseCSSDeclarations {
-  property: string;
-  values: string[];
-}
-
+import type { BaseCSSDeclarations } from "./types";
 
 const declarations: BaseCSSDeclarations[] = [
   {

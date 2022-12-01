@@ -1,16 +1,12 @@
 import postcss from "postcss"
-import * as tokens from './design-system/tokens'
-import { utility } from "./design-system/utility-classes"
 import declarations from './base_css'
-
 import { Root, Rule, Declaration } from './ast'
 
-import type { TokenDefinitions } from './design-system/tokens'
-import type { BaseCSSDeclarations } from './base_css'
+import type { BaseCSSDeclarations, TokenDefinitions } from './types'
 
 const json = {} // TODO: Scope this better
 
-export default () => {
+export default (tokens) => {
   const processor = postcss([]);
   
   const root = new Root()
@@ -22,7 +18,7 @@ export default () => {
   root.appendNodes(generateFromTokenDefinitions(tokens.base['font-weight']))
   root.appendNodes(generateFromTokenDefinitions(tokens.base.elevation))
   root.appendNodes(generateAliasTokens(tokens.aliases))
-  root.appendNodes(generateUtilityClasses(utility))
+  root.appendNodes(generateUtilityClasses(tokens.utility))
 
   // Turn the JSON AST representation into an actual AST
   let rehydrated = postcss.fromJSON(root.json())
