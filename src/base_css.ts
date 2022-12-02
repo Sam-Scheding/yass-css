@@ -2253,7 +2253,25 @@ const declarations: BaseCSSDeclarations[] = [
       "auto",
       "-webkit-partially-balanced",
     ]
-  }
+  },
+  {
+    property: "vertical-align",
+    values: [
+      "baseline",
+      "sub",
+      "super",
+      "text-top",
+      "text-bottom",
+      "middle",
+      "top",
+      "bottom",
+      "inherit",
+      "initial",
+      "revert",
+      "revert-layer",
+      "unset",
+    ]
+  },  
 ]
 
 export default declarations;

@@ -1826,6 +1826,21 @@
     "-apple-trailing-word:auto",
     "-apple-trailing-word:-webkit-partially-balanced"
   ],
+  "vertical-align": [
+    "vertical-align:baseline",
+    "vertical-align:sub",
+    "vertical-align:super",
+    "vertical-align:text-top",
+    "vertical-align:text-bottom",
+    "vertical-align:middle",
+    "vertical-align:top",
+    "vertical-align:bottom",
+    "vertical-align:inherit",
+    "vertical-align:initial",
+    "vertical-align:revert",
+    "vertical-align:revert-layer",
+    "vertical-align:unset"
+  ],
   "-webkit-margin-after": [
     "-webkit-margin-after:0",
     "-webkit-margin-after:1",
@@ -2623,7 +2638,10 @@
     "font-size:750",
     "font-size:800",
     "font-size:850",
-    "font-size:900"
+    "font-size:900",
+    "font-size:button-small",
+    "font-size:button-medium",
+    "font-size:button-large"
   ],
   "gap": [
     "gap:0",
@@ -6338,6 +6356,7 @@
     "color:pink-700",
     "color:pink-800",
     "color:pink-900",
+    "color:text",
     "color:primary",
     "color:primary-hover",
     "color:primary-active",

@@ -23144,6 +23144,201 @@
 .visited\(-apple-trailing-word\:-webkit-partially-balanced\):visited {
   -apple-trailing-word: -webkit-partially-balanced;
 }
+.vertical-align\:baseline {
+  vertical-align: baseline;
+}
+.hover\(vertical-align\:baseline\):hover {
+  vertical-align: baseline;
+}
+.focus\(vertical-align\:baseline\):focus {
+  vertical-align: baseline;
+}
+.active\(vertical-align\:baseline\):active {
+  vertical-align: baseline;
+}
+.visited\(vertical-align\:baseline\):visited {
+  vertical-align: baseline;
+}
+.vertical-align\:sub {
+  vertical-align: sub;
+}
+.hover\(vertical-align\:sub\):hover {
+  vertical-align: sub;
+}
+.focus\(vertical-align\:sub\):focus {
+  vertical-align: sub;
+}
+.active\(vertical-align\:sub\):active {
+  vertical-align: sub;
+}
+.visited\(vertical-align\:sub\):visited {
+  vertical-align: sub;
+}
+.vertical-align\:super {
+  vertical-align: super;
+}
+.hover\(vertical-align\:super\):hover {
+  vertical-align: super;
+}
+.focus\(vertical-align\:super\):focus {
+  vertical-align: super;
+}
+.active\(vertical-align\:super\):active {
+  vertical-align: super;
+}
+.visited\(vertical-align\:super\):visited {
+  vertical-align: super;
+}
+.vertical-align\:text-top {
+  vertical-align: text-top;
+}
+.hover\(vertical-align\:text-top\):hover {
+  vertical-align: text-top;
+}
+.focus\(vertical-align\:text-top\):focus {
+  vertical-align: text-top;
+}
+.active\(vertical-align\:text-top\):active {
+  vertical-align: text-top;
+}
+.visited\(vertical-align\:text-top\):visited {
+  vertical-align: text-top;
+}
+.vertical-align\:text-bottom {
+  vertical-align: text-bottom;
+}
+.hover\(vertical-align\:text-bottom\):hover {
+  vertical-align: text-bottom;
+}
+.focus\(vertical-align\:text-bottom\):focus {
+  vertical-align: text-bottom;
+}
+.active\(vertical-align\:text-bottom\):active {
+  vertical-align: text-bottom;
+}
+.visited\(vertical-align\:text-bottom\):visited {
+  vertical-align: text-bottom;
+}
+.vertical-align\:middle {
+  vertical-align: middle;
+}
+.hover\(vertical-align\:middle\):hover {
+  vertical-align: middle;
+}
+.focus\(vertical-align\:middle\):focus {
+  vertical-align: middle;
+}
+.active\(vertical-align\:middle\):active {
+  vertical-align: middle;
+}
+.visited\(vertical-align\:middle\):visited {
+  vertical-align: middle;
+}
+.vertical-align\:top {
+  vertical-align: top;
+}
+.hover\(vertical-align\:top\):hover {
+  vertical-align: top;
+}
+.focus\(vertical-align\:top\):focus {
+  vertical-align: top;
+}
+.active\(vertical-align\:top\):active {
+  vertical-align: top;
+}
+.visited\(vertical-align\:top\):visited {
+  vertical-align: top;
+}
+.vertical-align\:bottom {
+  vertical-align: bottom;
+}
+.hover\(vertical-align\:bottom\):hover {
+  vertical-align: bottom;
+}
+.focus\(vertical-align\:bottom\):focus {
+  vertical-align: bottom;
+}
+.active\(vertical-align\:bottom\):active {
+  vertical-align: bottom;
+}
+.visited\(vertical-align\:bottom\):visited {
+  vertical-align: bottom;
+}
+.vertical-align\:inherit {
+  vertical-align: inherit;
+}
+.hover\(vertical-align\:inherit\):hover {
+  vertical-align: inherit;
+}
+.focus\(vertical-align\:inherit\):focus {
+  vertical-align: inherit;
+}
+.active\(vertical-align\:inherit\):active {
+  vertical-align: inherit;
+}
+.visited\(vertical-align\:inherit\):visited {
+  vertical-align: inherit;
+}
+.vertical-align\:initial {
+  vertical-align: initial;
+}
+.hover\(vertical-align\:initial\):hover {
+  vertical-align: initial;
+}
+.focus\(vertical-align\:initial\):focus {
+  vertical-align: initial;
+}
+.active\(vertical-align\:initial\):active {
+  vertical-align: initial;
+}
+.visited\(vertical-align\:initial\):visited {
+  vertical-align: initial;
+}
+.vertical-align\:revert {
+  vertical-align: revert;
+}
+.hover\(vertical-align\:revert\):hover {
+  vertical-align: revert;
+}
+.focus\(vertical-align\:revert\):focus {
+  vertical-align: revert;
+}
+.active\(vertical-align\:revert\):active {
+  vertical-align: revert;
+}
+.visited\(vertical-align\:revert\):visited {
+  vertical-align: revert;
+}
+.vertical-align\:revert-layer {
+  vertical-align: revert-layer;
+}
+.hover\(vertical-align\:revert-layer\):hover {
+  vertical-align: revert-layer;
+}
+.focus\(vertical-align\:revert-layer\):focus {
+  vertical-align: revert-layer;
+}
+.active\(vertical-align\:revert-layer\):active {
+  vertical-align: revert-layer;
+}
+.visited\(vertical-align\:revert-layer\):visited {
+  vertical-align: revert-layer;
+}
+.vertical-align\:unset {
+  vertical-align: unset;
+}
+.hover\(vertical-align\:unset\):hover {
+  vertical-align: unset;
+}
+.focus\(vertical-align\:unset\):focus {
+  vertical-align: unset;
+}
+.active\(vertical-align\:unset\):active {
+  vertical-align: unset;
+}
+.visited\(vertical-align\:unset\):visited {
+  vertical-align: unset;
+}
 .-webkit-margin-after\:0 {
   -webkit-margin-after: 0;
 }
@@ -86430,49 +86625,94 @@
   padding-inline: 0.5rem;
 }
 .padding-inline\:button-medium {
-  padding-inline: 1rem;
+  padding-inline: 0.875rem;
 }
 .hover\(padding-inline\:button-medium\):hover {
-  padding-inline: 1rem;
+  padding-inline: 0.875rem;
 }
 .focus\(padding-inline\:button-medium\):focus {
-  padding-inline: 1rem;
+  padding-inline: 0.875rem;
 }
 .active\(padding-inline\:button-medium\):active {
-  padding-inline: 1rem;
+  padding-inline: 0.875rem;
 }
 .visited\(padding-inline\:button-medium\):visited {
-  padding-inline: 1rem;
+  padding-inline: 0.875rem;
 }
 .padding-inline\:button-large {
-  padding-inline: 1.5rem;
+  padding-inline: 2rem;
 }
 .hover\(padding-inline\:button-large\):hover {
-  padding-inline: 1.5rem;
+  padding-inline: 2rem;
 }
 .focus\(padding-inline\:button-large\):focus {
-  padding-inline: 1.5rem;
+  padding-inline: 2rem;
 }
 .active\(padding-inline\:button-large\):active {
-  padding-inline: 1.5rem;
+  padding-inline: 2rem;
 }
 .visited\(padding-inline\:button-large\):visited {
-  padding-inline: 1.5rem;
+  padding-inline: 2rem;
+}
+.font-size\:button-small {
+  font-size: 0.875rem;
+}
+.hover\(font-size\:button-small\):hover {
+  font-size: 0.875rem;
+}
+.focus\(font-size\:button-small\):focus {
+  font-size: 0.875rem;
+}
+.active\(font-size\:button-small\):active {
+  font-size: 0.875rem;
+}
+.visited\(font-size\:button-small\):visited {
+  font-size: 0.875rem;
+}
+.font-size\:button-medium {
+  font-size: 0.875rem;
+}
+.hover\(font-size\:button-medium\):hover {
+  font-size: 0.875rem;
+}
+.focus\(font-size\:button-medium\):focus {
+  font-size: 0.875rem;
+}
+.active\(font-size\:button-medium\):active {
+  font-size: 0.875rem;
+}
+.visited\(font-size\:button-medium\):visited {
+  font-size: 0.875rem;
+}
+.font-size\:button-large {
+  font-size: 1rem;
+}
+.hover\(font-size\:button-large\):hover {
+  font-size: 1rem;
+}
+.focus\(font-size\:button-large\):focus {
+  font-size: 1rem;
+}
+.active\(font-size\:button-large\):active {
+  font-size: 1rem;
+}
+.visited\(font-size\:button-large\):visited {
+  font-size: 1rem;
 }
 .padding-block\:button-small {
-  padding-block: 0.25rem;
+  padding-block: 0.125rem;
 }
 .hover\(padding-block\:button-small\):hover {
-  padding-block: 0.25rem;
+  padding-block: 0.125rem;
 }
 .focus\(padding-block\:button-small\):focus {
-  padding-block: 0.25rem;
+  padding-block: 0.125rem;
 }
 .active\(padding-block\:button-small\):active {
-  padding-block: 0.25rem;
+  padding-block: 0.125rem;
 }
 .visited\(padding-block\:button-small\):visited {
-  padding-block: 0.25rem;
+  padding-block: 0.125rem;
 }
 .padding-block\:button-medium {
   padding-block: 0.5rem;
@@ -86490,19 +86730,34 @@
   padding-block: 0.5rem;
 }
 .padding-block\:button-large {
-  padding-block: 0.75rem;
+  padding-block: 1rem;
 }
 .hover\(padding-block\:button-large\):hover {
-  padding-block: 0.75rem;
+  padding-block: 1rem;
 }
 .focus\(padding-block\:button-large\):focus {
-  padding-block: 0.75rem;
+  padding-block: 1rem;
 }
 .active\(padding-block\:button-large\):active {
-  padding-block: 0.75rem;
+  padding-block: 1rem;
 }
 .visited\(padding-block\:button-large\):visited {
-  padding-block: 0.75rem;
+  padding-block: 1rem;
+}
+.color\:text {
+  color: hsl(220, 25%, 20%);
+}
+.hover\(color\:text\):hover {
+  color: hsl(220, 25%, 20%);
+}
+.focus\(color\:text\):focus {
+  color: hsl(220, 25%, 20%);
+}
+.active\(color\:text\):active {
+  color: hsl(220, 25%, 20%);
+}
+.visited\(color\:text\):visited {
+  color: hsl(220, 25%, 20%);
 }
 .color\:primary {
   color: hsl(220, 25%, 95%);
